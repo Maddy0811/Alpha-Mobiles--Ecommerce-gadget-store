@@ -9,11 +9,6 @@ Screenshots :
 ![image](https://user-images.githubusercontent.com/120421353/213883725-6232d649-4873-4f29-ae1d-59f5b762714d.png)
 
 
-![image](https://user-images.githubusercontent.com/120421353/213883728-cc05bd6c-df51-414b-87d5-cabe7d44643c.png)
-
-
-![image](https://user-images.githubusercontent.com/120421353/213883732-cdec1e0b-25be-4967-a25a-5242927ba67f.png)
-
 
 ![image](https://user-images.githubusercontent.com/120421353/213883739-5b6db9fb-a8c2-4a63-91d0-722943747133.png)
 
